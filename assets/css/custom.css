@@ -1,0 +1,10 @@
+#wsmssr_dashboard_widget_simple_site_rating .inside{ max-height: 600px; overflow: auto; }
+#wsmssr_dashboard_status .wsmssr_inside{ padding: 10px 10px 0px 10px ; margin-bottom: 10px; border: 1px solid #c3c4c7; }
+#wsmssr_dashboard_status .wsmssr_list{ padding: 0px; margin: 0px; }
+#wsmssr_dashboard_status li.wsmssr-li { font-size: 16px; font-weight: 700; border-bottom:1px solid #c3c4c7; padding: 5px; }
+#wsmssr_dashboard_status .wsmssr-inner-list{ display: grid; }
+#wsmssr_dashboard_status .wsmssr-inner-li{ border-bottom:1px solid #c3c4c7; margin: 0px; }
+#wsmssr_dashboard_status .wsmssr-inner-li div.inner-left-div,
+#wsmssr_dashboard_status .wsmssr-inner-li div.inner-right-div{ width: 50%; float: left; padding: 10px ; font-size: 14px; box-sizing: border-box; }
+#wsmssr_dashboard_status .wsmssr-inner-li div.inner-left-div{ border-right: 1px solid #c3c4c7; }
+#wsmssr_dashboard_status a.wsmssr-li-view-more { float: right; font-size: 14px; font-weight: 400; }

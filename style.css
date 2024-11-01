@@ -1,0 +1,11 @@
+.wsmssr-page-feed-container { width: 100%; height: auto; padding: 0px; }
+.wsmssr-page-feed-title-section .wsmssr-page-feed-image { margin-right: 20px; }
+.wsmssr-page-feed-title-section .wsmssr-page-feed-title { margin-right: 20px; }
+.wsmssr-page-feed-answer .icon{ display: inline-block; margin-right: 20px; padding: 5px; cursor: pointer; }
+.wsmssr-page-feed-answer .icon img {vertical-align: top;}
+.wsmssr-page-feed-answer { }
+.wsmssr-page-feed-answer .icon .fa-laugh,
+.wsmssr-page-feed-answer .icon .fa-smile,
+.wsmssr-page-feed-answer .icon .fa-meh,
+.wsmssr-page-feed-answer .icon .fa-frown,
+.wsmssr-page-feed-image .fa-question { font-size: 45px; }

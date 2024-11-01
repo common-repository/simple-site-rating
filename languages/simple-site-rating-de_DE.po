@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-08-23 09:29+0200\n"
+"PO-Revision-Date: 2022-08-23 09:29+0200\n"
+"Last-Translator: \n"
+"Language-Team: German\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Domain: simple-site-rating\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Loco-Version: 2.6.2; wp-6.0.1\n"
+
+#: inc/core.php:428
+msgid "All ratings are deleted."
+msgstr "Alle Bewertungen wurden gelöscht."
+
+#: inc/core.php:574
+msgid "Deactivate FontAwesome"
+msgstr "FontAwesome deaktivieren"
+
+#: inc/core.php:475
+msgid "Delete all ratings"
+msgstr "Alle Bewertungen löschen"
+
+#: inc/core.php:429
+msgid "Dismiss this notice."
+msgstr "Diesen Hinweis ausblenden."
+
+#: inc/core.php:716
+msgid "Done!"
+msgstr "Erledigt!"
+
+#: inc/core.php:667
+msgid "HTML tags allowed."
+msgstr "HTML-Tags erlaubt."
+
+#. Author URI of the plugin
+msgid "https://www.wsm.eu"
+msgstr ""
+
+#: inc/core.php:512
+msgid "Icon Color"
+msgstr "Icon-Farbe"
+
+#: inc/core.php:526
+msgid "Icon Hover Color"
+msgstr "Icon-Hover-Farbe"
+
+#. Description of the plugin
+msgid "Let your website visitors rate your single posts and pages."
+msgstr ""
+
+#: inc/core.php:496
+msgid "Question"
+msgstr "Frage"
+
+#: inc/core.php:160
+msgid "Rating Average"
+msgstr "Wertungsschnitt"
+
+#: inc/core.php:568
+msgid "Select The Post Types"
+msgstr "Post Types auswählen"
+
+#: inc/core.php:36
+msgid "Settings"
+msgstr "Einstellungen"
+
+#. page <title>Title</title>
+#. Name of the plugin
+#: inc/core.php:301 inc/core.php:302 inc/core.php:725
+msgid "Simple Site Rating"
+msgstr "Simple Site Rating"
+
+#: inc/core.php:425
+msgid "Simple Site Rating Settings"
+msgstr "Simple Site Rating Einstellungen"
+
+#: inc/core.php:552
+msgid "Thank You Content"
+msgstr "Bestätigungstext"
+
+#: inc/core.php:538
+msgid "Thank You Content Heading"
+msgstr "Überschrift Bestätigung"
+
+#: inc/core.php:749
+msgid "View More..."
+msgstr "Mehr …"
+
+#: inc/core.php:186 inc/core.php:800
+msgid "votes"
+msgstr "Bewertungen"
+
+#. Author of the plugin
+msgid "WSM – Walter Solbach Metallbau GmbH"
+msgstr ""
